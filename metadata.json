@@ -1,0 +1,9 @@
+{
+  "name": "t1d-indicator",
+  "description": "Glucose indicator",
+  "uuid": "t1d-indicator@andre-oliveira.dev",
+  "settings-schema": "andre-oliveira.dev.t1d-indicator",
+  "shell-version": [
+    "3.36"
+  ]
+}

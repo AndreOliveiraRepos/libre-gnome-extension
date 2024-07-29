@@ -1,0 +1,20 @@
+/* Add your custom extension styling here */
+.in-range {
+    background-color: green;
+}
+
+.over{
+    background-color: rgb(187, 187, 5);
+}
+
+.under{
+    background-color: red;
+}
+
+.dangerous-over {
+    background-color: orange;
+}
+
+.trend-icon {
+    color: white;
+}

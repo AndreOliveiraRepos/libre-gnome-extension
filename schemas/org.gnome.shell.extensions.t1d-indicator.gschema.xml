@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="t1d-indicator@andre-oliveira.dev">
+    <schema path="/andre-oliveira/dev/t1d-indicator/" id="andre-oliveira.dev.t1d-indicator">
+        <key name="username" type="s" >
+            <default>'asdasd'</default>
+            <summary>Your Email</summary>
+        </key>
+        <key name="password" type="s" >
+          <default>'sdf'</default>
+        <summary>Your password</summary>
+    </key>
+
+    </schema>
+</schemalist>
